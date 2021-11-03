@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\ExercicePoo\bin\Debug\netcoreapp3.1\ExercicePoo.exe
+C:\Users\PC\Desktop\ExercicePoo\bin\Debug\netcoreapp3.1\ExercicePoo.deps.json
+C:\Users\PC\Desktop\ExercicePoo\bin\Debug\netcoreapp3.1\ExercicePoo.runtimeconfig.json
+C:\Users\PC\Desktop\ExercicePoo\bin\Debug\netcoreapp3.1\ExercicePoo.runtimeconfig.dev.json
+C:\Users\PC\Desktop\ExercicePoo\bin\Debug\netcoreapp3.1\ExercicePoo.dll
+C:\Users\PC\Desktop\ExercicePoo\bin\Debug\netcoreapp3.1\ExercicePoo.pdb
+C:\Users\PC\Desktop\ExercicePoo\obj\Debug\netcoreapp3.1\ExercicePoo.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ExercicePoo\obj\Debug\netcoreapp3.1\ExercicePoo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ExercicePoo\obj\Debug\netcoreapp3.1\ExercicePoo.AssemblyInfo.cs
+C:\Users\PC\Desktop\ExercicePoo\obj\Debug\netcoreapp3.1\ExercicePoo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ExercicePoo\obj\Debug\netcoreapp3.1\ExercicePoo.dll
+C:\Users\PC\Desktop\ExercicePoo\obj\Debug\netcoreapp3.1\ExercicePoo.pdb
+C:\Users\PC\Desktop\ExercicePoo\obj\Debug\netcoreapp3.1\ExercicePoo.genruntimeconfig.cache
