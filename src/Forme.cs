@@ -22,7 +22,7 @@ namespace ExercicePoo.src
         //les constructeurs avecparametre
         // private string couleur;
         //3polmorphisme
-       /* public virtual string Couleur{get;set;}
+        public virtual string Couleur{get;set;}
         
         public Forme(string getCouleur)
         {          
@@ -37,23 +37,23 @@ namespace ExercicePoo.src
         return $"C'est une forme de couleur {Couleur}";
         }
        
-    }*/
-    abstract class Forme
-    {
-        
-        
-        public Forme(string getCouleur)
-        {          
-           Couleur=getCouleur;
-        }
-        public string getCouleur()
-        {
-            return Couleur;
-        }
-         public abstract string tostring()
-         public abstract string surface()
-        {
-        return $"C'est une forme de couleur {Couleur}";
-        }
     }
+    // abstract class Forme
+    // {
+        
+        
+    //     public Forme(string getCouleur)
+    //     {          
+    //        Couleur=getCouleur;
+    //     }
+    //     public string getCouleur()
+    //     {
+    //         return Couleur;
+    //     }
+    //      public abstract string tostring()
+    //      public abstract string surface()
+    //     {
+    //     return $"C'est une forme de couleur {Couleur}";
+    //     }
+    // }
 }
